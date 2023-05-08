@@ -16,3 +16,49 @@ a
     color:indigo;
     padding-right: 20px;
 }
+
+.header
+    {
+        width: 100%;
+        background-color: gray;
+        float: right;
+    }  
+
+.slider 
+    {
+        width: 100%;
+        background-color: bisque;
+        float: right;
+    } 
+
+.box1
+    {
+        width: 25%;
+        background-color: blueviolet;
+        padding-bottom: 300px;
+        float: right;
+    }
+
+.box2
+    {
+        width: 25%;
+        background-color: pink;
+        padding-bottom: 300px;
+        float: right;
+    }
+
+.box3
+    {
+        width: 25%;
+        background-color: cornflowerblue;
+        padding-bottom: 300px;
+        float: right;
+    }
+
+.box4
+    {
+        width: 25%;
+        background-color: greenyellow;
+        padding-bottom: 300px;
+        float: right;
+    }
