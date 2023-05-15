@@ -21,14 +21,15 @@ a
     {
         width: 100%;
         background-color: lightgray;
-        float: right;
+        float: left;
+        height: 150px;
     }  
 
 .slider 
     {
         width: 100%;
         background-color: bisque;
-        float: right;
+        float: left;
     } 
 
 .box1
@@ -36,7 +37,7 @@ a
         width: 25%;
         background-color: blueviolet;
         padding-bottom: 300px;
-        float: right;
+        float: left;
     }
 
 .box2
@@ -44,7 +45,7 @@ a
         width: 25%;
         background-color: pink;
         padding-bottom: 300px;
-        float: right;
+        float: left;
     }
 
 .box3
@@ -52,7 +53,7 @@ a
         width: 25%;
         background-color: cornflowerblue;
         padding-bottom: 300px;
-        float: right;
+        float: left;
     }
 
 .box4
@@ -60,5 +61,11 @@ a
         width: 25%;
         background-color: greenyellow;
         padding-bottom: 300px;
-        float: right;
+        float: left;
+    }
+
+
+.content
+    {
+        color: crimson;
     }
