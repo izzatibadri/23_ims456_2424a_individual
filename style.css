@@ -67,5 +67,44 @@ a
 
 .content
     {
-        color: crimson;
+        color: darkblue;
+        font-size: 16pt;
+    }
+
+table, tr, td, th
+    {
+        border:1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+table
+    {
+        width: 600px;
+    }
+
+tr
+    {
+        background-color: pink;
+    }
+
+th
+    {
+        background-color: plum;
+        color: darkmagenta;
+    }
+
+td 
+    {
+        padding: 5px;
+    }     
+
+tr:nth-child(odd)
+    {
+        background-color: lavenderblush;
+    }
+
+tr:hover
+    {
+        background-color: aquamarine;
     }
